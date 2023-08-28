@@ -45,9 +45,9 @@
         <img src="img/grafis.png" class="img-fluid" alt="...">
       </div>
       <div class="col-md-4 offset-md-2 mt-5">
-        <h2>Gabung Bersama Kami untuk Merayakan Hidup Sehat!</h2>
-        <p>Bersama Kita, Setiap Hari Adalah Kesempatan untuk Meningkatkan Kesehatan</p>
-        <button type="button" class="btn btn-primary"
+        <h2 class="ms-2">Gabung Bersama Kami untuk Merayakan Hidup Sehat!</h2>
+        <p class="ms-2">Bersama Kita, Setiap Hari Adalah Kesempatan untuk Meningkatkan Kesehatan</p>
+        <button type="button" class="btn btn-primary ms-2 mb-3"
                 style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;">
           Lihat Lainnya
         </button>

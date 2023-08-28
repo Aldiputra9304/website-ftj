@@ -59,15 +59,16 @@
 <li>Sakit kepala yang sering muncul</li>
 <li>Tegang di leher</li>
 <li>Cepat capek atau lelah</li>
-<li>Ngos-ngosan</li>
+<li class="mb-5">Ngos-ngosan</li>
 </ul>
+</div>
 
 <!-- akhir card -->
 
 
 <!-- footer -->
 <footer class="bg-primary text-light py-4">
-  <div class="container">
+  <div class="container mt-4">
     <div class="row">
       <div class="col-md-6">
         <h5 class="mb-3">Alamat Kami</h5>
