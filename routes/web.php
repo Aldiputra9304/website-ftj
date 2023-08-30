@@ -19,17 +19,23 @@ Route::get('/', function () {
 });
 */
 
-
-
+/*
 Route::get('/', function () {
     return view('detailartikel');
 });
-
+*/
 
 /*
 Route::get('/', function () {
     return view('iklan');
 });
 */
+
+Route::get('/', function () {
+    return view('infoakun');
+});
+
+
+
 
 

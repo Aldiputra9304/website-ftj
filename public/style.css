@@ -1,0 +1,12 @@
+.card {
+    position: relative;
+  }
+
+  .card .text-block {
+    position: absolute;
+    top: 0;
+    left: 120px; /* Jarak horizontal sesuaikan dengan kebutuhan */
+    width: calc(100% - 120px); /* Lebar sesuaikan dengan jarak horizontal */
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 10px;
+  }
