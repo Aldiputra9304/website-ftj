@@ -64,9 +64,9 @@
             <img src="img/akuncard2.png" class="img-fluid mt-3" alt="..." style="height: 100px;">
           </div>
           <div class="col-md-8">
-            <h2 class="mt-3">Pentingnya Kesehatan Mata Tips Merawat Mata di Era Digital</h2>
-            <p class="card-text fw-light mt-3">Rabu 23 Agustus 2023 oleh Intan</p>
-            <p class="mb-5">Peningkatan paparan layar di era digital dapat berdampak pada kesehatan mata. Artikel ini memberikan tips tentang cara merawat mata, seperti istirahat yang <a class="link-offset-2 link-underline link-underline-opacity-0" href="#">baca selengkapnya...</a></p>
+            <h2 class="mt-3 ms-2">Pentingnya Kesehatan Mata Tips Merawat Mata di Era Digital</h2>
+            <p class="card-text fw-light mt-3 ms-2">Rabu 23 Agustus 2023 oleh Intan</p>
+            <p class="mb-5 ms-2">Peningkatan paparan layar di era digital dapat berdampak pada kesehatan mata. Artikel ini memberikan tips tentang cara merawat mata, seperti istirahat yang <a class="link-offset-2 link-underline link-underline-opacity-0" href="#">baca selengkapnya...</a></p>
           </div>
         </div>
       </div>
@@ -78,9 +78,9 @@
             <img src="img/akuncard2.png" class="img-fluid mt-3" alt="..." style="height: 100px;">
           </div>
           <div class="col-md-8">
-            <h2 class="mt-3">Pentingnya Kesehatan Mata Tips Merawat Mata di Era Digital</h2>
-            <p class="card-text fw-light mt-3">Rabu 23 Agustus 2023 oleh Intan</p>
-            <p class="mb-5">Peningkatan paparan layar di era digital dapat berdampak pada kesehatan mata. Artikel ini memberikan tips tentang cara merawat mata, seperti istirahat yang <a class="link-offset-2 link-underline link-underline-opacity-0" href="#">baca selengkapnya...</a></p>
+            <h2 class="mt-3 ms-2">Pentingnya Kesehatan Mata Tips Merawat Mata di Era Digital</h2>
+            <p class="card-text fw-light mt-3 ms-2">Rabu 23 Agustus 2023 oleh Intan</p>
+            <p class="mb-5 ms-2">Peningkatan paparan layar di era digital dapat berdampak pada kesehatan mata. Artikel ini memberikan tips tentang cara merawat mata, seperti istirahat yang <a class="link-offset-2 link-underline link-underline-opacity-0" href="#">baca selengkapnya...</a></p>
           </div>
         </div>
       </div>
