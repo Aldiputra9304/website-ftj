@@ -18,7 +18,10 @@
     <!-- navbar -->
   <nav class="navbar navbar-light bg-light shadow p ">
   <div class="container">
-    <a class="navbar-brand">Navbar</a>
+  <a class="navbar-brand" href="#">
+      <img src="img/logo.png" alt="Logo" width="80" height="80" class="d-inline-block align-text-top">
+      Bootstrap
+    </a>
     <form class="d-flex">
       <button class="btn btn-outline-primary me-2" type="submit">Masuk</button>
       <input class="btn btn-primary me-2" type="submit" value="Daftar">

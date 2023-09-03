@@ -46,11 +46,14 @@
 <div class="container">
   <div class="card mt-4 border border-2" style="max-width: 70rem;">
     <div class="row">
+    <div class="col-md-4 ms-md-5  d-block d-lg-none">
+        <img src="img/iklan2.png" class="img-fluid mt-3 mb-3" alt="...">
+      </div>
       <div class="col-md-4 offset-md-2 mt-5">
         <h2 class="ms-2">GImunisasi: Cintai Anak Anda dengan Melindungi Mereka!</h2>
         <p class="ms-2">Jadwalkan imunisasi rutin untuk anak-anak Anda. Ini adalah cara efektif untuk mencegah penyakit berbahaya dan melindungi generasi masa depan.</p>
       </div>
-      <div class="col-md-4 ms-md-5">
+      <div class="col-md-4 ms-md-5 d-none d-lg-block">
         <img src="img/iklan2.png" class="img-fluid mt-3 mb-3" alt="...">
       </div>
     </div>

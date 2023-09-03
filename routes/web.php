@@ -19,11 +19,13 @@ Route::get('/', function () {
 });
 */
 
+
 /*
 Route::get('/', function () {
     return view('detailartikel');
 });
 */
+
 
 /*
 Route::get('/', function () {
@@ -31,9 +33,20 @@ Route::get('/', function () {
 });
 */
 
+
+/*
 Route::get('/', function () {
     return view('infoakun');
 });
+*/
+
+Route::get('/', function () {
+    return view('tulisan');
+});
+
+
+
+
 
 
 

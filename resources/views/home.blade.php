@@ -16,7 +16,7 @@
   </head>
   <body>
     <!-- navbar -->
-  <nav class="navbar navbar-light bg-light shadow p ">
+  <nav class="navbar navbar-light bg-light shadow p sticky-top ">
   <div class="container">
     <a class="navbar-brand">Navbar</a>
     <form class="d-flex">
