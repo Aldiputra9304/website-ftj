@@ -10,14 +10,18 @@
      
     <!-- link css -->
     <link rel="stylesheet" href="style.css"/>
+
+    
     
      
     <title>Website Ftj</title>
   </head>
-  <body>
+  <body data-bs-theme="light">
+    <script src="index.js"></script>
     <!-- navbar -->
   <nav class="navbar navbar-light bg-light shadow p ">
   <div class="container">
+    <button onclick="cambiarTema()"class="btn rounded-fill"><i id="dl-icon" class="bi bi-moon-fill"></i></button>
     <a class="navbar-brand">Navbar</a>
     <form class="d-flex">
       <button class="btn btn-outline-primary me-2" type="submit">Masuk</button>
@@ -209,17 +213,26 @@
 <!-- AKhir Footer -->
 
 
-
+<script>
+  function myFuntion(){
+    var element = document.body;
+    element.dataset.bsTheme =
+    element.dataset.bsTheme == "light" ? "dark" : "light";
+  }
+  </script>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+   
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
     <!-- Option 2: Separate Popper and Bootstrap JS -->
-    <!--
+    
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
-    -->
+    
   </body>
 </html>
