@@ -11,18 +11,21 @@
     <!-- link css -->
     <link rel="stylesheet" href="style.css"/>
 
-    
-    
-     
+    <!-- link js -->
+    <script src="index.js"></script>
+
+    <!-- link icon -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+ 
     <title>Website Ftj</title>
   </head>
   <body data-bs-theme="light">
-    <script src="index.js"></script>
     <!-- navbar -->
   <nav class="navbar navbar-light bg-light shadow p ">
   <div class="container">
-    <button onclick="cambiarTema()"class="btn rounded-fill"><i id="dl-icon" class="bi bi-moon-fill"></i></button>
     <a class="navbar-brand">Navbar</a>
+    <button onclick="cambiarTema()"class="btn rounded-fill"><i id="dl-icon" class="bi bi-moon-fill"></i></button>
     <form class="d-flex">
       <button class="btn btn-outline-primary me-2" type="submit">Masuk</button>
       <input class="btn btn-primary me-2" type="submit" value="Daftar">
@@ -193,33 +196,25 @@
 
 
 <!-- footer -->
-<footer class="bg-primary text-light py-4 mt-4">
+<footer class="bg-info text-light py-4 mt-4">
   <div class="container mt-4">
     <div class="row">
       <div class="col-md-6">
-        <h5 class="mb-3">Alamat Kami</h5>
-        <p>Jalan Contoh No. 123, Kota Contoh, Negara Contoh</p>
+      <img src="img/logofooter.png" class=" mb-4" alt="...">
+        <p>Sanora merupakan Platform Media Informasi yang memberikan akses bagi pembaca untuk menulis artikel. </p>
       </div>
       <div class="col-md-6">
         <h5 class="mb-3">Kontak Kami</h5>
-        <p>Email: info@example.com</p>
-        <p>Telepon: +1234567890</p>
+        <p><i class="bi bi-telephone me-2"></i>: +628123321444</p>
+        <p><i class="bi bi-envelope me-2"></i>: sanora@gmail.com</p>
+        <p><i class="bi bi-geo-alt me-2" ></i>: Jalan DI Panjaitan 178, Purwokerto Selatan</p>
       </div>
     </div>
     <hr>
-    <p class="text-center mt-3">&copy; 2023 Nama Website. All Rights Reserved.</p>
+    <p class="text-start ">&copy; 2023 Nama Website. All Rights Reserved.</p>
   </div>
 </footer>
 <!-- AKhir Footer -->
-
-
-<script>
-  function myFuntion(){
-    var element = document.body;
-    element.dataset.bsTheme =
-    element.dataset.bsTheme == "light" ? "dark" : "light";
-  }
-  </script>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
@@ -231,8 +226,10 @@
 
     <!-- Option 2: Separate Popper and Bootstrap JS -->
     
+    <!--
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+-->
     
   </body>
 </html>
